@@ -2,6 +2,7 @@
 
 I'm Kai Nguyen Dam, a college student at DePauw University originally from Vietnam with a keen interest in data analytics and statistical analytics. As someone who is passionate about data-driven decision making, I'm constantly honing my skills in data analysis, data visualization, and statistical modeling. On my GitHub, you'll find projects that demonstrate my proficiency in tools such as [Programming Languages (e.g., Python, R)], [Data Visualization Libraries (e.g., ggplot, Seaborn)], and [Statistical Analysis Tools (e.g., Pandas, NumPy, SQL)]. These projects showcase my ability to analyze and interpret data to drive insights and inform business decisions. 
 
+Skills: SQL / Python / R / Microsoft Excel / Microsoft Power BI / Google Analytics
 
 
 
