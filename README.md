@@ -4,10 +4,10 @@ I'm Kai Nguyen Dam, a college student at DePauw University originally from Vietn
 
 
 Outside of work, I enjoy:
-• ⚽️ Watching and playing soccer
-• 🍜 Cooking, especially Asian food
-• 🎧 Listening to music
-• ✈️ Travelling
+- ⚽️ Watching and playing soccer
+- 🍜 Cooking, especially Asian food
+- 🎧 Listening to music
+- ✈️ Travelling
 
 
 I'm actively seeking internships in the field of data analytics or business analytics to gain practical experience and apply my skills in real-world scenarios. I'm enthusiastic about leveraging data to solve complex problems and optimize business processes. Feel free to explore my repositories and reach out to me for potential internship opportunities. Let's collaborate and uncover valuable insights from data to drive strategic decision making!
